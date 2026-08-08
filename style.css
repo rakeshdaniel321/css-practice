@@ -1,0 +1,26 @@
+div{
+  font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: underline;
+    color:blue;
+
+}
+a:visited{
+    color:purple;
+}
+a:hover, a:focus{
+    color:green;
+    text-decoration: underline;
+}
+a:active{
+    color:red;
+}
+
+#port{
+    color:red;
+   text-transform: capitalize;
+   text-decoration: underline;
+   cursor: pointer;
+
+}
